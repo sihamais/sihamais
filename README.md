@@ -1,4 +1,4 @@
-![logo](https://fr.wikipedia.org/wiki/Fichier:GitLab_Logo.svg)[Check my Gitlab profile](https://gitlab.com/sihamais) :point_left:
+[My Gitlab profile](https://gitlab.com/sihamais) :point_left:
 
 <!--
 **sihamais/sihamais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
